@@ -292,15 +292,13 @@ When I did the study plan, I used 2 languages for most of it: C and Python
 * C: చాలా తక్కువ స్థాయి. పాయింటర్లు మరియు మెమరీ కేటాయింపు/డీలాకేషన్‌తో వ్యవహరించడానికి మిమ్మల్ని అనుమతిస్తుంది, కాబట్టి మీరు మీ ఎముకలలోని డేటా స్ట్రక్చర్‌లు మరియు అల్గారిథమ్‌లను 	అనుభూతి చెందుతారు. పైథాన్ లేదా జావా వంటి ఉన్నత స్థాయి భాషలలో, ఇవి మీ నుండి దాచబడతాయి. రోజువారీ పనిలో, ఇది అద్భుతమైనది, కానీ మీరు ఈ తక్కువ-స్థాయి డేటా నిర్మాణాలు ఎలా 		నిర్మించబడ్డాయో నేర్చుకుంటున్నప్పుడు, మెటల్‌కు దగ్గరగా అనుభూతి చెందడం చాలా బాగుంది.
     - C ప్రతిచోటా ఉంది. మీరు చదువుతున్నప్పుడు పుస్తకాలు, ఉపన్యాసాలు, వీడియోలు, *ప్రతిచోటా* మీకు ఉదాహరణలు కనిపిస్తాయి.
     - [The C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
-        - This is a short book, but it will give you a great handle on the C language and if you practice it a little
-            you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
-        - You don't need to go super deep in the book (or even finish it). Just get to where you're comfortable reading and writing in C.
-        - [Answers to questions in the book](https://github.com/lekkas/c-algorithms)
-* Python: Modern and very expressive, I learned it because it's just super useful and also allows me to write less code in an interview.
+        - ఇది చిన్న పుస్తకం, కానీ ఇది మీకు సి భాషపై గొప్ప హ్యాండిల్‌ని ఇస్తుంది మరియు మీరు దానిని కొద్దిగా సాధన చేస్తే296  మీరు త్వరగా నైపుణ్యం పొందుతారు. ప్రోగ్రామ్‌లు మరియు మెమరీ ఎలా 	పనిచేస్తాయో అర్థం చేసుకోవడంలో సిని అర్థం చేసుకోవడం మీకు సహాయపడుతుంది.297  
+        -  మీరు పుస్తకంలో చాలా లోతుగా వెళ్లాల్సిన అవసరం లేదు (లేదా దాన్ని పూర్తి చేయడం కూడా). C లో చదవడం మరియు వ్రాయడం మీకు సౌకర్యంగా ఉన్న చోటికి చేరుకోండి.298 
+        -  [పుస్తకంలోని ప్రశ్నలకు సమాధానాలు](https://github.com/lekkas/c-algorithms)
+* Python: ధునికమైనది మరియు చాలా వ్యక్తీకరణ, నేను దానిని నేర్చుకున్నాను ఎందుకంటే ఇది చాలా ఉపయోగకరంగా ఉంటుంది మరియు ఇంటర్వ్యూలో తక్కువ కోడ్ రాయడానికి కూడా నన్ను 			అనుమతిస్తుంది.
+ఇది నా అభిమతం. మీరు ఖచ్చితంగా, మీకు నచ్చినది చేస్తారు.
 
-This is my preference. You do what you like, of course.
-
-You may not need it, but here are some sites for learning a new language:
+మీకు ఇది అవసరం లేకపోవచ్చు, కానీ కొత్త భాష నేర్చుకోవడానికి ఇక్కడ కొన్ని సైట్‌లు ఉన్నాయి:
 - [Exercism](https://exercism.org/tracks)
 - [Codewars](http://www.codewars.com)
 - [Codility](https://codility.com/programmers/)
@@ -322,22 +320,23 @@ You may not need it, but here are some sites for learning a new language:
 - JavaScript
 - Ruby
 
-Here is an article I wrote about choosing a language for the interview: 
+ఇంటర్వ్యూ కోసం భాషను ఎంచుకోవడం గురించి నేను వ్రాసిన కథనం ఇక్కడ ఉంది:
+
 [Pick One Language for the Coding Interview](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/).
-This is the original article my post was based on: http://blog.codingforinterviews.com/best-programming-language-jobs/
+ఇది నా పోస్ట్ ఆధారంగా రూపొందించబడిన అసలు కథనం: http://blog.codingforinterviews.com/best-programming-language-jobs/
 
-You need to be very comfortable in the language and be knowledgeable.
+మీరు భాషలో చాలా సౌకర్యవంతంగా ఉండాలి మరియు పరిజ్ఞానం ఉండాలి.
 
-Read more about choices: 
+ఎంపికల గురించి మరింత చదవండి:
 - [Choose the Right Language for Your Coding Interview](http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/)
 
 [See language-specific resources here](programming-language-resources.md)
 
 ## Books for Data Structures and Algorithms
 
-This book will form your foundation for computer science.
+ఈ పుస్తకం కంప్యూటర్ సైన్స్ కోసం మీ పునాదిని ఏర్పరుస్తుంది.338,339మీరు సౌకర్యవంతంగా ఉండే భాషలో ఒకదాన్ని ఎంచుకోండి.
 
-Just choose one, in a language that you will be comfortable with. You'll be doing a lot of reading and coding.
+మీరు చాలా రీడింగ్ మరియు కోడింగ్ చేస్తూ ఉంటారు.
 
 ### C
 
@@ -376,15 +375,14 @@ Your choice:
 
 ## Interview Prep Books
 
-You don't need to buy a bunch of these. Honestly "Cracking the Coding Interview" is probably enough, 
-but I bought more to give myself more practice. But I always do too much.
+మీరు వీటిని కొనుగోలు చేయవలసిన అవసరం లేదు. నిజాయితీగా "కోడింగ్ ఇంటర్వ్యూని క్రాకింగ్ చేయడం" బహుశా సరిపోతుంది,379కానీ నాకు మరింత ప్రాక్టీస్ ఇవ్వడానికి నేను ఎక్కువ కొన్నాను. కానీ నేను ఎప్పుడూ చాలా ఎక్కువ చేస్తాను.
 
 I bought both of these. They gave me plenty of practice.
 
 - [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
-    - Answers in C++ and Java
-    - This is a good warm-up for Cracking the Coding Interview
-    - Not too difficult. Most problems may be easier than what you'll see in an interview (from what I've read)
+- C++ మరియు Javaలో సమాధానాలు384  
+- కోడింగ్ ఇంటర్వ్యూను క్రాకింగ్ చేయడానికి ఇది మంచి సన్నాహకత385  
+- చాలా కష్టం కాదు. ఇంటర్వ్యూలో మీరు చూసే దానికంటే చాలా సమస్యలు సులభంగా ఉండవచ్చు (నేను చదివిన వాటి నుండి)
 - [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
 
@@ -510,9 +508,7 @@ interview books, too, but I found this outstanding:
 
 Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then type it and test it out on a computer.
 
-If you don't have a whiteboard at home, pick up a large drawing pad from an art store. You can sit on the couch and practice. 
-This is my "sofa whiteboard". I added the pen in the photo just for scale. If you use a pen, you'll wish you could erase. 
-Gets messy quick. **I use a pencil and eraser.**
+,512మీకు ఇంట్లో వైట్‌బోర్డ్ లేకపోతే, ఆర్ట్ స్టోర్ నుండి పెద్ద డ్రాయింగ్ ప్యాడ్‌ని తీసుకోండి. మీరు సోఫాలో కూర్చుని సాధన చేయవచ్చు.513ఇది నా "సోఫా వైట్‌బోర్డ్". నేను స్కేల్ కోసం ఫోటోలో పెన్ను జోడించాను. మీరు పెన్ను ఉపయోగిస్తే, మీరు చెరిపివేయాలని మీరు కోరుకుంటారు.514త్వరగా గజిబిజి అవుతుంది. **నేను పెన్సిల్ మరియు ఎరేజర్ ఉపయోగిస్తాను.**
 
 ![my sofa whiteboard](https://d3j2pkmjtin6ou.cloudfront.net/art_board_sm_2.jpg)
 
